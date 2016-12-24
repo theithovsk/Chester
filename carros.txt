@@ -1,0 +1,6 @@
+Ferrari;LaFerrari;Vermelho;Esportivo;3000;LAF-0000;S;
+Honda;Civic;Prata;Sedã;300;KVN-8313;N
+Volkswagen;Gol;Preto;Popular;80;MDF-4398;S;Volkswagen;Gol;Preto;Popular;80;MDF-4398;N
+Kawasaki;Ninja H2R;Verde;Moto;300;PWE-4829;S;Kawasaki;Ninja H2R;Verde;Moto;300;PWE-4829;N
+Ford;EcoSport;Preto;Popular;120;DHE-4382;N
+Fiat	;Punto	;Prata;Popular;60;RTY-4567;S;
